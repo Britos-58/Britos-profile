@@ -1,7 +1,7 @@
 # ⬛ Britos-58 | Profile
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=003399&text=Welcome%20to%20my%20github%20profile.&fontColor=800080&fontSize=40" width="100%"/> 
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=003399&text=Welcome%20to%20my%20github%20profile&fontColor=800080&fontSize=40" width="100%"/> 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=003399&height=150&&fontSize=60" width="100%" />
 </p>
 
@@ -27,7 +27,7 @@ Check out my GitHub portfolio:
 
 ---
 
-[![portefolio_english](https://img.shields.io/badge/portefolio_english-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://)
+[![portefolio_english](https://img.shields.io/badge/portefolio_english-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Bio.md)
 [![portefolio_french](https://img.shields.io/badge/portefolio_french-blue?style=for-the-badge&logo=gitbook&logoColor=white)](https://)
 
 ---
