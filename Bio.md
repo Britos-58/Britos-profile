@@ -32,13 +32,14 @@ Here you can find more information about my personal goals and journey.
 
 [![goals](https://img.shields.io/badge/goals-blue?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Goals.md)
 [![journey](https://img.shields.io/badge/journey-blue?style=for-the-badge&logo=mapbox&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Journey.md)
+[![contact](https://img.shields.io/badge/contact-blue?style=for-the-badge&logo=mapbox&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Contact.md)
 
 ---
 
 ### More Aboute My Career
 Here you can explore my professional experience and career path.
 
-[![career](https://img.shields.io/badge/career-blue?style=for-the-badge&logo=target&logoColor=white)](https://)
+[![career](https://img.shields.io/badge/career-blue?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Career.md)
 
 ---
 
