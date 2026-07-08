@@ -30,8 +30,8 @@ Looking ahead, I aim to establish a solid career in the technology field, contin
 ### More About me:
 Here you can find more information about my personal goals and journey.
 
-[![goals](https://img.shields.io/badge/goals-blue?style=for-the-badge&logo=target&logoColor=white)](https://)
-[![journey](https://img.shields.io/badge/journey-blue?style=for-the-badge&logo=mapbox&logoColor=white)](https://)
+[![goals](https://img.shields.io/badge/goals-blue?style=for-the-badge&logo=target&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Goals.md)
+[![journey](https://img.shields.io/badge/journey-blue?style=for-the-badge&logo=mapbox&logoColor=white)](https://github.com/Britos-58/Britos-58/blob/main/Journey.md)
 
 ---
 
